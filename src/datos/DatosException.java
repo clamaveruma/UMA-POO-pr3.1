@@ -8,4 +8,6 @@ public class DatosException extends RuntimeException {
 	public DatosException(String msg) {
 		super(msg);
 	}
+	
+	
 }
